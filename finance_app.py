@@ -1,1 +1,1 @@
-print("Mobile banking applications have revolutionalised the banking industry")
+print("Mobile banking applications have made banking simpler")
