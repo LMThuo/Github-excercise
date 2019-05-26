@@ -1,1 +1,1 @@
-# Github-excercise
+Learning to use Github
